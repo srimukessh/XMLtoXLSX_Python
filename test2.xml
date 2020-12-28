@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<edgarSubmission xmlns="http://www.sec.gov/edgar/ncen" xmlns:com="http://www.sec.gov/edgar/common">
+  <headerData>
+    <submissionType>N-CEN</submissionType>
+    <filerInfo>
+      <liveTestFlag>LIVE</liveTestFlag>
+      <filer>
+        <issuerCredentials>
+          <cik>0001484018</cik>
+          <ccc>XXXXXXXX</ccc>
+        </issuerCredentials>
+      </filer>
+      <flags>
+        <returnCopyFlag>false</returnCopyFlag>
+        <overrideInternetFlag>false</overrideInternetFlag>
+        <confirmingCopyFlag>false</confirmingCopyFlag>
+      </flags>
+      <investmentCompanyType>N-1A</investmentCompanyType>
+    </filerInfo>
+    <seriesClass>
+      <reportSeriesClass>
+        <rptIncludeAllSeriesFlag>true</rptIncludeAllSeriesFlag>
+      </reportSeriesClass>
+    </seriesClass>
+  </headerData>
+  <formData>
+    <generalInfo isReportPeriodLt12="Y" reportEndingPeriod="2018-06-30"/>
+    <registrantInfo>
+      <registrantFullName>Spinnaker ETF Series</registrantFullName>
+      <investmentCompFileNo>811-22398</investmentCompFileNo>
+      <registrantCik>0001484018</registrantCik>
+      <registrantLei>54930056GHDI2JOI6X90</registrantLei>
+      <registrantstreet1>116 SOUTH FRANKLIN STREET</registrantstreet1>
+      <registrantcity>ROCKY MOUNT</registrantcity>
+      <registrantzipCode>27804</registrantzipCode>
+      <registrantstate>US-NC</registrantstate>
+      <registrantcountry>US</registrantcountry>
+      <registrantphoneNumber>252-972-9922</registrantphoneNumber>
+      <websites>
+        <website webpage="N/A"/>
+      </websites>
+      <locationBooksRecords>
+        <locationBooksRecord>
+          <officeName>THE BANK OF NEW YORK MELLON</officeName>
+          <officeAddress1>100 COLONIAL CENTER PARKWAY</officeAddress1>
+          <officeAddress2>SUITE 200</officeAddress2>
+          <officeCity>LAKE MARY</officeCity>
+          <officeStateCountry officeState="US-FL" officeCountry="US"/>
+          <officeRecordsZipCode>32746</officeRecordsZipCode>
+          <officePhone>407-833-5123</officePhone>
+          <booksRecordsDesc>DAILY NET ASSET VALUE PACKETS, SHAREHOLDER TAX RETURN INFO, CUSTODY INFORMATION</booksRecordsDesc>
+        </locationBooksRecord>
+      </locationBooksRecords>
+      <isRegistrantFirstFiling>Y</isRegistrantFirstFiling>
+      <isRegistrantLastFiling>N</isRegistrantLastFiling>
+      <isRegistrantFamilyInvComp>N</isRegistrantFamilyInvComp>
+      <registrantClassificationType>N-1A</registrantClassificationType>
+      <totalSeries>3</totalSeries>
+      <isSecuritiesActRegistration>Y</isSecuritiesActRegistration>
+      <directors>
+        <director>
+          <directorName>THOMAS RODERICK GALLOWAY</directorName>
+          <crdNumber>N/A</crdNumber>
+          <isDirectorInterestedPerson>N</isDirectorInterestedPerson>
+          <fileNumbers>
+            <fileNumberInfo fileNumber="811-22507"/>
+          </fileNumbers>
+        </director>
+        <director>
+          <directorName>JESSE SAMUEL EBERDT III</directorName>
+          <crdNumber>N/A</crdNumber>
+          <isDirectorInterestedPerson>N</isDirectorInterestedPerson>
+          <fileNumbers>
+            <fileNumberInfo fileNumber="N/A"/>
+          </fileNumbers>
+        </director>
+      </directors>
+      <chiefComplianceOfficers>
+        <chiefComplianceOfficer>
+          <ccoName>STACEY GILLESPIE</ccoName>
+          <crdNumber>N/A</crdNumber>
+          <ccoStreet1>480 EAST SWEDESFORD ROAD, SUITE 220</ccoStreet1>
+          <ccoCity>WAYNE</ccoCity>
+          <ccoStateCountry ccoCountry="US" ccoState="US-PA"/>
+          <ccoZipCode>19087</ccoZipCode>
+          <ccoPhone>XXXXXX</ccoPhone>
+          <isCcoChangedSinceLastFiling>N</isCcoChangedSinceLastFiling>
+          <ccoEmployers>
+            <ccoEmployer ccoEmployerId="27-4720266" ccoEmployerName="CIPPERMAN COMPLIANCE SERVICES, LLC"/>
+          </ccoEmployers>
+        </chiefComplianceOfficer>
+      </chiefComplianceOfficers>
+      <isRegistrantSubmittedMatter>N</isRegistrantSubmittedMatter>
+      <isPreviousLegalProceeding>N</isPreviousLegalProceeding>
+      <isPreviousProceedingTerminated>N</isPreviousProceedingTerminated>
+      <isClaimFiled>N</isClaimFiled>
+      <coveredByInsurancePolicy isCoveredByInsurancePolicy="Y" isClaimFiledDuringPeriod="N"/>
+      <isFinancialSupportDuringPeriod>N</isFinancialSupportDuringPeriod>
+      <releaseNumbers isExemptionFromAct="Y">
+        <releaseNumberInfo releaseNumber="00-32601"/>
+      </releaseNumbers>
+      <principalUnderwriters>
+        <principalUnderwriter>
+          <principalUnderwriterName>CAPITAL INVESTMENT GROUP, INC.</principalUnderwriterName>
+          <principalUnderwriterFileNumber>008-14752</principalUnderwriterFileNumber>
+          <principalUnderwriterCrdNumber>N/A</principalUnderwriterCrdNumber>
+          <principalUnderwriterLei>N/A</principalUnderwriterLei>
+          <principalUnderWriterStateCountry principalUnderWriterState="US-NC" principalUnderWriterCountry="US"/>
+          <isPrincipalUnderwriterAffiliatedWithRegistrant>N</isPrincipalUnderwriterAffiliatedWithRegistrant>
+        </principalUnderwriter>
+      </principalUnderwriters>
+      <isUnderwriterHiredOrTerminated>Y</isUnderwriterHiredOrTerminated>
+      <publicAccountants>
+        <publicAccountant>
+          <publicAccountantName>BBD, LLP</publicAccountantName>
+          <pcaobNumber>552</pcaobNumber>
+          <publicAccountantLei>N/A</publicAccountantLei>
+          <publicAccountantStateCountry publicAccountantState="US-PA" publicAccountantCountry="US"/>
+        </publicAccountant>
+      </publicAccountants>
+      <isPublicAccountantChanged>N</isPublicAccountantChanged>
+      <isMaterialWeakness>N</isMaterialWeakness>
+      <isOpinionOffered>N</isOpinionOffered>
+      <isMaterialChange>N</isMaterialChange>
+      <isAccountingPrincipleChange>N</isAccountingPrincipleChange>
+      <isPaymentErrorInNetAssetValue>N</isPaymentErrorInNetAssetValue>
+      <isPaymentDividend>N</isPaymentDividend>
+    </registrantInfo>
+    <managementInvestmentQuestionSeriesInfo>
+      <managementInvestmentQuestion>
+        <mgmtInvFundName>FIELDSTONE UVA UNCONSTRAINED MEDIUM-TERM FIXED INCOME ETF</mgmtInvFundName>
+        <mgmtInvSeriesId>S000057345</mgmtInvSeriesId>
+        <mgmtInvLei>549300XJDE5AD9OP5X97</mgmtInvLei>
+        <isFirstFilingByFund>Y</isFirstFilingByFund>
+        <numAuthorizedClass>1</numAuthorizedClass>
+        <numAddedClass>0</numAddedClass>
+        <numTerminatedClass>0</numTerminatedClass>
+        <sharesOutstandings>
+          <sharesOutstanding sharesOutstandingClassName="N/A" sharesOutstandingClassId="C000183025" sharesOutstandingTickerSymbol="FFIU"/>
+        </sharesOutstandings>
+        <fundTypes>
+          <fundType>Exchange-Traded Fund</fundType>
+        </fundTypes>
+        <isNonDiversifiedCompany>N</isNonDiversifiedCompany>
+        <isForeignSubsidiary>N</isForeignSubsidiary>
+        <isFundSecuritiesLending>N</isFundSecuritiesLending>
+        <didFundLendSecurities>N</didFundLendSecurities>
+        <securityLendings>
+          <securityLending>
+            <securitiesAgentName>N/A</securitiesAgentName>
+            <securitiesAgentLei>N/A</securitiesAgentLei>
+            <isSecuritiesAgentAffiliated>N</isSecuritiesAgentAffiliated>
+            <isSecurityAgentIdemnity>N</isSecurityAgentIdemnity>
+          </securityLending>
+        </securityLendings>
+        <collateralManagers>
+          <collateralManager isCollateralManagerAffliliatedWithFund="N" isCollateralManagerAffliliated="N" collateralManagerLei="N/A" collateralManagerName="N/A"/>
+        </collateralManagers>
+        <paymentToAgentManagerType>N/A</paymentToAgentManagerType>
+        <avgPortfolioSecuritiesValue>0.00</avgPortfolioSecuritiesValue>
+        <netIncomeSecuritiesLending>0.00</netIncomeSecuritiesLending>
+        <relyOnRuleTypes>
+          <relyOnRuleType>Rule 32a-4 (17 CFR 270.32a-4)</relyOnRuleType>
+        </relyOnRuleTypes>
+        <isExpenseLimitationInPlace>Y</isExpenseLimitationInPlace>
+        <isExpenseReducedOrWaived>Y</isExpenseReducedOrWaived>
+        <isFeesWaivedRecoupable>N</isFeesWaivedRecoupable>
+        <isExpenseWaivedRecoupable>N</isExpenseWaivedRecoupable>
+        <investmentAdvisers>
+          <investmentAdviser>
+            <investmentAdviserName>OBP CAPITAL, LLC</investmentAdviserName>
+            <investmentAdviserFileNo>801-80213</investmentAdviserFileNo>
+            <investmentAdviserCrdNo>000167619</investmentAdviserCrdNo>
+            <investmentAdviserLei>N/A</investmentAdviserLei>
+            <investmentAdviserStateCountry investmentAdviserState="US-NC" investmentAdviserCountry="US"/>
+            <investmentAdviserHired isInvestmentAdviserHired="Y">
+              <investmentAdviserStartDate>2017-08-18</investmentAdviserStartDate>
+            </investmentAdviserHired>
+          </investmentAdviser>
+        </investmentAdvisers>
+        <subAdvisers>
+          <subAdviser>
+            <subAdviserName>UNIVERSAL VALUE ADVISORS, LLC</subAdviserName>
+            <subAdviserFileNo>801-108879</subAdviserFileNo>
+            <subAdviserCrdNo>000285644</subAdviserCrdNo>
+            <subAdviserLei>N/A</subAdviserLei>
+            <isSubAdviserAffiliated>N</isSubAdviserAffiliated>
+            <subAdviserStateCountry subAdviserCountry="US" subAdviserState="US-NV"/>
+            <subAdviserHired isSubAdviserHired="Y" subAdviserStartDate="2017-08-18"/>
+          </subAdviser>
+        </subAdvisers>
+        <transferAgents>
+          <transferAgent>
+            <transferAgentName>THE BANK OF NEW YORK MELLON</transferAgentName>
+            <transferAgentFileNo>N/A</transferAgentFileNo>
+            <transferAgentLei>N/A</transferAgentLei>
+            <transferAgentStateCountry transferAgentState="US-NY" transferAgentCountry="US"/>
+            <isTransferAgentAffiliated>N</isTransferAgentAffiliated>
+            <isTransferAgentSubAgent>N</isTransferAgentSubAgent>
+          </transferAgent>
+        </transferAgents>
+        <isTransferAgentHiredOrTerminated>Y</isTransferAgentHiredOrTerminated>
+        <pricingServices>
+          <pricingService>
+            <pricingServiceName>BLOOMBERG PROFESSIONAL SERVICES</pricingServiceName>
+            <pricingServiceLei>N/A</pricingServiceLei>
+            <pricingServiceIdNumberDesc>N/A</pricingServiceIdNumberDesc>
+            <pricingServiceStateCountry pricingServiceState="US-NY" pricingServiceCountry="US"/>
+            <isPricingServiceAffiliated>N</isPricingServiceAffiliated>
+          </pricingService>
+          <pricingService>
+            <pricingServiceName>ICE DATA SERVICES</pricingServiceName>
+            <pricingServiceLei>N/A</pricingServiceLei>
+            <pricingServiceIdNumberDesc>N/A</pricingServiceIdNumberDesc>
+            <pricingServiceStateCountry pricingServiceState="US-NY" pricingServiceCountry="US"/>
+            <isPricingServiceAffiliated>N</isPricingServiceAffiliated>
+          </pricingService>
+        </pricingServices>
+        <isPricingServiceHiredOrTerminated>N</isPricingServiceHiredOrTerminated>
+        <custodians>
+          <custodian>
+            <custodianName>THE BANK OF NEW YORK MELLON</custodianName>
+            <custodianLei>N/A</custodianLei>
+            <custodianStateCountry custodianCountry="US" custodianState="US-FL"/>
+            <isCustodianAffiliated>N</isCustodianAffiliated>
+            <isSubCustodian>N</isSubCustodian>
+            <custodyType>Bank - section 17(f)(1) (15 U.S.C. 80a-17(f)(1))</custodyType>
+          </custodian>
+        </custodians>
+        <isCustodianHiredOrTerminated>Y</isCustodianHiredOrTerminated>
+        <shareholderServicingAgents>
+          <shareholderServicingAgent>
+            <shareholderServiceAgentName>THE BANK OF NEW YORK MELLON</shareholderServiceAgentName>
+            <shareholderServiceAgentLei>N/A</shareholderServiceAgentLei>
+            <shareholderServiceIdNumberDesc>N/A</shareholderServiceIdNumberDesc>
+            <shareholderServiceAgentStateCountry shareholderServiceAgentState="US-NY" shareholderServiceAgentCountry="US"/>
+            <isShareholderServiceAgentAffiliated>N</isShareholderServiceAgentAffiliated>
+            <isShareholderServiceAgentSubshare>N</isShareholderServiceAgentSubshare>
+          </shareholderServicingAgent>
+        </shareholderServicingAgents>
+        <isShareholderServiceHiredTerminated>Y</isShareholderServiceHiredTerminated>
+        <admins>
+          <admin>
+            <adminName>THE NOTTINGHAM COMPANY</adminName>
+            <adminLei>549300WSNC1UD33Z2P26</adminLei>
+            <idNumberDesc>N/A</idNumberDesc>
+            <adminStateCountry adminCountry="US" adminState="US-NC"/>
+            <isAdminAffiliated>Y</isAdminAffiliated>
+            <isAdminSubAdmin>N</isAdminSubAdmin>
+          </admin>
+        </admins>
+        <isAdminHiredOrTerminated>Y</isAdminHiredOrTerminated>
+        <brokers>
+          <broker>
+            <brokerName>RAYMOND JAMES &amp; ASSOCIATES, INC.</brokerName>
+            <brokerFileNo>N/A</brokerFileNo>
+            <brokerCrdNo>N/A</brokerCrdNo>
+            <brokerLei>N/A</brokerLei>
+            <brokerStateCountry brokerCountry="US" brokerState="US-NY"/>
+            <grossCommission>887</grossCommission>
+          </broker>
+        </brokers>
+        <aggregateCommission>887</aggregateCommission>
+        <principalTransactions>
+          <principalTransaction>
+            <principalName>RAYMOND JAMES &amp; ASSOCIATES, INC.</principalName>
+            <principalFileNo>N/A</principalFileNo>
+            <principalCrdNo>N/A</principalCrdNo>
+            <principalLei>N/A</principalLei>
+            <principalStateCountry principalCountry="US" principalState="US-NY"/>
+            <principalTotalPurchaseSale>247300</principalTotalPurchaseSale>
+          </principalTransaction>
+          <principalTransaction>
+            <principalName>PERSHING, LLC</principalName>
+            <principalFileNo>N/A</principalFileNo>
+            <principalCrdNo>N/A</principalCrdNo>
+            <principalLei>N/A</principalLei>
+            <principalStateCountry principalCountry="US" principalState="US-NY"/>
+            <principalTotalPurchaseSale>1997785</principalTotalPurchaseSale>
+          </principalTransaction>
+          <principalTransaction>
+            <principalName>MERRILL LYNCH</principalName>
+            <principalFileNo>N/A</principalFileNo>
+            <principalCrdNo>N/A</principalCrdNo>
+            <principalLei>N/A</principalLei>
+            <principalStateCountry principalCountry="US" principalState="US-NY"/>
+            <principalTotalPurchaseSale>8542590</principalTotalPurchaseSale>
+          </principalTransaction>
+          <principalTransaction>
+            <principalName>MORGAN STANLEY &amp; CO., INC.</principalName>
+            <principalFileNo>N/A</principalFileNo>
+            <principalCrdNo>N/A</principalCrdNo>
+            <principalLei>N/A</principalLei>
+            <principalStateCountry principalCountry="US" principalState="US-NY"/>
+            <principalTotalPurchaseSale>45141325</principalTotalPurchaseSale>
+          </principalTransaction>
+        </principalTransactions>
+        <principalAggregatePurchase>55929000</principalAggregatePurchase>
+        <isBrokerageResearchPayment>N</isBrokerageResearchPayment>
+        <mnthlyAvgNetAssets>39708890</mnthlyAvgNetAssets>
+        <hasLineOfCredit>N</hasLineOfCredit>
+        <isInterfundLending>N</isInterfundLending>
+        <isInterfundBorrowing>N</isInterfundBorrowing>
+      </managementInvestmentQuestion>
+      <managementInvestmentQuestion>
+        <mgmtInvFundName>FIELDSTONE MERLIN DYNAMIC LARGE CAP GROWTH ETF</mgmtInvFundName>
+        <mgmtInvSeriesId>S000057344</mgmtInvSeriesId>
+        <mgmtInvLei>529900DGJEQ8G8FP7662</mgmtInvLei>
+        <isFirstFilingByFund>Y</isFirstFilingByFund>
+        <numAuthorizedClass>1</numAuthorizedClass>
+        <numAddedClass>0</numAddedClass>
+        <numTerminatedClass>0</numTerminatedClass>
+        <sharesOutstandings>
+          <sharesOutstanding sharesOutstandingClassName="N/A" sharesOutstandingClassId="C000183024" sharesOutstandingTickerSymbol="FMDG"/>
+        </sharesOutstandings>
+        <fundTypes>
+          <fundType>Exchange-Traded Fund</fundType>
+        </fundTypes>
+        <isNonDiversifiedCompany>N</isNonDiversifiedCompany>
+        <isForeignSubsidiary>N</isForeignSubsidiary>
+        <isFundSecuritiesLending>N</isFundSecuritiesLending>
+        <didFundLendSecurities>N</didFundLendSecurities>
+        <securityLendings>
+          <securityLending>
+            <securitiesAgentName>N/A</securitiesAgentName>
+            <securitiesAgentLei>N/A</securitiesAgentLei>
+            <isSecuritiesAgentAffiliated>N</isSecuritiesAgentAffiliated>
+            <isSecurityAgentIdemnity>N</isSecurityAgentIdemnity>
+          </securityLending>
+        </securityLendings>
+        <collateralManagers>
+          <collateralManager isCollateralManagerAffliliatedWithFund="N" isCollateralManagerAffliliated="N" collateralManagerLei="N/A" collateralManagerName="N/A"/>
+        </collateralManagers>
+        <paymentToAgentManagerType>N/A</paymentToAgentManagerType>
+        <avgPortfolioSecuritiesValue>0.00</avgPortfolioSecuritiesValue>
+        <netIncomeSecuritiesLending>0.00</netIncomeSecuritiesLending>
+        <relyOnRuleTypes>
+          <relyOnRuleType>Rule 32a-4 (17 CFR 270.32a-4)</relyOnRuleType>
+        </relyOnRuleTypes>
+        <isExpenseLimitationInPlace>Y</isExpenseLimitationInPlace>
+        <isExpenseReducedOrWaived>Y</isExpenseReducedOrWaived>
+        <isFeesWaivedRecoupable>N</isFeesWaivedRecoupable>
+        <isExpenseWaivedRecoupable>N</isExpenseWaivedRecoupable>
+        <investmentAdvisers>
+          <investmentAdviser>
+            <investmentAdviserName>OBP CAPITAL, LLC</investmentAdviserName>
+            <investmentAdviserFileNo>801-80213</investmentAdviserFileNo>
+            <investmentAdviserCrdNo>000167619</investmentAdviserCrdNo>
+            <investmentAdviserLei>N/A</investmentAdviserLei>
+            <investmentAdviserStateCountry investmentAdviserState="US-NC" investmentAdviserCountry="US"/>
+            <investmentAdviserHired isInvestmentAdviserHired="Y">
+              <investmentAdviserStartDate>2017-08-18</investmentAdviserStartDate>
+            </investmentAdviserHired>
+          </investmentAdviser>
+        </investmentAdvisers>
+        <subAdvisers>
+          <subAdviser>
+            <subAdviserName>MERLIN CAPITAL MANAGEMENT, LLC</subAdviserName>
+            <subAdviserFileNo>801-108253</subAdviserFileNo>
+            <subAdviserCrdNo>000284790</subAdviserCrdNo>
+            <subAdviserLei>N/A</subAdviserLei>
+            <isSubAdviserAffiliated>N</isSubAdviserAffiliated>
+            <subAdviserStateCountry subAdviserCountry="US" subAdviserState="US-MA"/>
+            <subAdviserHired isSubAdviserHired="Y" subAdviserStartDate="2017-08-18"/>
+          </subAdviser>
+        </subAdvisers>
+        <transferAgents>
+          <transferAgent>
+            <transferAgentName>THE BANK OF NEW YORK MELLON</transferAgentName>
+            <transferAgentFileNo>N/A</transferAgentFileNo>
+            <transferAgentLei>N/A</transferAgentLei>
+            <transferAgentStateCountry transferAgentState="US-NY" transferAgentCountry="US"/>
+            <isTransferAgentAffiliated>N</isTransferAgentAffiliated>
+            <isTransferAgentSubAgent>N</isTransferAgentSubAgent>
+          </transferAgent>
+        </transferAgents>
+        <isTransferAgentHiredOrTerminated>Y</isTransferAgentHiredOrTerminated>
+        <pricingServices>
+          <pricingService>
+            <pricingServiceName>BLOOMBERG PROFESSIONAL SERVICES</pricingServiceName>
+            <pricingServiceLei>N/A</pricingServiceLei>
+            <pricingServiceIdNumberDesc>N/A</pricingServiceIdNumberDesc>
+            <pricingServiceStateCountry pricingServiceState="US-NY" pricingServiceCountry="US"/>
+            <isPricingServiceAffiliated>N</isPricingServiceAffiliated>
+          </pricingService>
+          <pricingService>
+            <pricingServiceName>ICE DATA SERVICES</pricingServiceName>
+            <pricingServiceLei>N/A</pricingServiceLei>
+            <pricingServiceIdNumberDesc>N/A</pricingServiceIdNumberDesc>
+            <pricingServiceStateCountry pricingServiceState="US-NY" pricingServiceCountry="US"/>
+            <isPricingServiceAffiliated>N</isPricingServiceAffiliated>
+          </pricingService>
+        </pricingServices>
+        <isPricingServiceHiredOrTerminated>N</isPricingServiceHiredOrTerminated>
+        <custodians>
+          <custodian>
+            <custodianName>THE BANK OF NEW YORK MELLON</custodianName>
+            <custodianLei>N/A</custodianLei>
+            <custodianStateCountry custodianCountry="US" custodianState="US-FL"/>
+            <isCustodianAffiliated>N</isCustodianAffiliated>
+            <isSubCustodian>N</isSubCustodian>
+            <custodyType>Bank - section 17(f)(1) (15 U.S.C. 80a-17(f)(1))</custodyType>
+          </custodian>
+        </custodians>
+        <isCustodianHiredOrTerminated>Y</isCustodianHiredOrTerminated>
+        <shareholderServicingAgents>
+          <shareholderServicingAgent>
+            <shareholderServiceAgentName>THE BANK OF NEW YORK MELLON</shareholderServiceAgentName>
+            <shareholderServiceAgentLei>N/A</shareholderServiceAgentLei>
+            <shareholderServiceIdNumberDesc>N/A</shareholderServiceIdNumberDesc>
+            <shareholderServiceAgentStateCountry shareholderServiceAgentState="US-NC" shareholderServiceAgentCountry="US"/>
+            <isShareholderServiceAgentAffiliated>N</isShareholderServiceAgentAffiliated>
+            <isShareholderServiceAgentSubshare>N</isShareholderServiceAgentSubshare>
+          </shareholderServicingAgent>
+        </shareholderServicingAgents>
+        <isShareholderServiceHiredTerminated>Y</isShareholderServiceHiredTerminated>
+        <admins>
+          <admin>
+            <adminName>THE NOTTINGHAM COMPANY</adminName>
+            <adminLei>549300WSNC1UD33Z2P26</adminLei>
+            <idNumberDesc>N/A</idNumberDesc>
+            <adminStateCountry adminCountry="US" adminState="US-NC"/>
+            <isAdminAffiliated>Y</isAdminAffiliated>
+            <isAdminSubAdmin>N</isAdminSubAdmin>
+          </admin>
+        </admins>
+        <isAdminHiredOrTerminated>Y</isAdminHiredOrTerminated>
+        <brokers>
+          <broker>
+            <brokerName>CANTOR FITZGERALD &amp; CO.</brokerName>
+            <brokerFileNo>N/A</brokerFileNo>
+            <brokerCrdNo>N/A</brokerCrdNo>
+            <brokerLei>N/A</brokerLei>
+            <brokerStateCountry brokerCountry="US" brokerState="US-NY"/>
+            <grossCommission>668</grossCommission>
+          </broker>
+        </brokers>
+        <aggregateCommission>668</aggregateCommission>
+        <principalTransactions>
+          <principalTransaction>
+            <principalName>CANTOR FITZGERALD</principalName>
+            <principalFileNo>N/A</principalFileNo>
+            <principalCrdNo>N/A</principalCrdNo>
+            <principalLei>N/A</principalLei>
+            <principalStateCountry principalCountry="US" principalState="US-NY"/>
+            <principalTotalPurchaseSale>11074249</principalTotalPurchaseSale>
+          </principalTransaction>
+          <principalTransaction>
+            <principalName>MERRILL LYNCH</principalName>
+            <principalFileNo>N/A</principalFileNo>
+            <principalCrdNo>N/A</principalCrdNo>
+            <principalLei>N/A</principalLei>
+            <principalStateCountry principalCountry="US" principalState="US-NY"/>
+            <principalTotalPurchaseSale>1416381</principalTotalPurchaseSale>
+          </principalTransaction>
+        </principalTransactions>
+        <principalAggregatePurchase>12490630</principalAggregatePurchase>
+        <isBrokerageResearchPayment>N</isBrokerageResearchPayment>
+        <mnthlyAvgNetAssets>6366092</mnthlyAvgNetAssets>
+        <hasLineOfCredit>N</hasLineOfCredit>
+        <isInterfundLending>N</isInterfundLending>
+        <isInterfundBorrowing>N</isInterfundBorrowing>
+      </managementInvestmentQuestion>
+    </managementInvestmentQuestionSeriesInfo>
+    <exchangeSeriesInfo>
+      <exchangeTradedFund>
+        <fundName>FIELDSTONE UVA UNCONSTRAINED MEDIUM-TERM FIXED INCOME ETF</fundName>
+        <etfSeriesId>S000057345</etfSeriesId>
+        <securityExchanges>
+          <securityExchange fundExchange="XNYS" fundsTickerSymbol="FFIU"/>
+        </securityExchanges>
+        <authorizedParticipants>
+          <authorizedParticipant authorizedParticipantLei="N/A" authorizedParticipantFileNo="008-00000-0" authorizedParticipantRedeemValue="0.00" authorizedParticipantName="MERRILL LYNCH" authorizedParticipantCrdNo="N/A" authorizedParticipantPurchaseValue="13604517.00"/>
+          <authorizedParticipant authorizedParticipantLei="N/A" authorizedParticipantFileNo="008-00000-0" authorizedParticipantRedeemValue="0.00" authorizedParticipantName="CANTOR FITZGERALD" authorizedParticipantCrdNo="N/A" authorizedParticipantPurchaseValue="32467428.00"/>
+          <authorizedParticipant authorizedParticipantLei="N/A" authorizedParticipantFileNo="008-00000-0" authorizedParticipantRedeemValue="0.00" authorizedParticipantName="CITADEL" authorizedParticipantCrdNo="N/A" authorizedParticipantPurchaseValue="0.00"/>
+          <authorizedParticipant authorizedParticipantLei="N/A" authorizedParticipantFileNo="008-00000-0" authorizedParticipantRedeemValue="0.00" authorizedParticipantName="JP MORGAN" authorizedParticipantCrdNo="N/A" authorizedParticipantPurchaseValue="0.00"/>
+        </authorizedParticipants>
+        <isCollateralRequired>N</isCollateralRequired>
+        <creationUnitNumOfShares>50000.00</creationUnitNumOfShares>
+        <averagePercentagePurchased>92.00</averagePercentagePurchased>
+        <standardDeviationPurchased>2.00</standardDeviationPurchased>
+        <creationUnitPurchasedInKind>8.00</creationUnitPurchasedInKind>
+        <creationUnitPurchasedSDInKind>2.00</creationUnitPurchasedSDInKind>
+        <averagePercentageRedeemed>0.00</averagePercentageRedeemed>
+        <percentSDRedeemed>0.00</percentSDRedeemed>
+        <creationUnitPercentageRedeemedInKind>0.00</creationUnitPercentageRedeemedInKind>
+        <creationUnitSDRedeemedInKind>0.00</creationUnitSDRedeemedInKind>
+        <creationUnitTransactionFeePerUnit>500.00</creationUnitTransactionFeePerUnit>
+        <creationUnitTransactionFeeManyUnits>0.00</creationUnitTransactionFeeManyUnits>
+        <creationUnitTransactionFeePercentagePerUnit>0.00</creationUnitTransactionFeePercentagePerUnit>
+        <creationUnitTransactionFeeCashPerUnit>500.00</creationUnitTransactionFeeCashPerUnit>
+        <creationUnitTransactionFeeCashManyUnits>0.00</creationUnitTransactionFeeCashManyUnits>
+        <creationUnitTransactionFeeCashPercentagePerUnit>0.00</creationUnitTransactionFeeCashPercentagePerUnit>
+        <purchaseCreationUnitDollarPerUnit>500.00</purchaseCreationUnitDollarPerUnit>
+        <purchaseCreationUnitDollarPerMoreUnits>0.00</purchaseCreationUnitDollarPerMoreUnits>
+        <purchaseCreationUnitDollarPercentagePerUnit>0.00</purchaseCreationUnitDollarPercentagePerUnit>
+        <purchaseCreationUnitCashPerUnit>500.00</purchaseCreationUnitCashPerUnit>
+        <purchaseCreationUnitCashPerMoreUnits>0.00</purchaseCreationUnitCashPerMoreUnits>
+        <purchaseCreationUnitCashPercentagePerUnit>0.00</purchaseCreationUnitCashPercentagePerUnit>
+        <isInKindETF>N</isInKindETF>
+      </exchangeTradedFund>
+      <exchangeTradedFund>
+        <fundName>FIELDSTONE MERLIN DYNAMIC LARGE CAP GROWTH ETF</fundName>
+        <etfSeriesId>S000057344</etfSeriesId>
+        <securityExchanges>
+          <securityExchange fundExchange="XNYS" fundsTickerSymbol="FMDG"/>
+        </securityExchanges>
+        <authorizedParticipants>
+          <authorizedParticipant authorizedParticipantLei="N/A" authorizedParticipantFileNo="008-00000-0" authorizedParticipantRedeemValue="0.00" authorizedParticipantName="MERRILL LYNCH" authorizedParticipantCrdNo="N/A" authorizedParticipantPurchaseValue="4997557.00"/>
+          <authorizedParticipant authorizedParticipantLei="N/A" authorizedParticipantFileNo="008-00000-0" authorizedParticipantRedeemValue="0.00" authorizedParticipantName="CANTOR FITZGERALD" authorizedParticipantCrdNo="N/A" authorizedParticipantPurchaseValue="1419679.00"/>
+          <authorizedParticipant authorizedParticipantLei="N/A" authorizedParticipantFileNo="008-00000-0" authorizedParticipantRedeemValue="0.00" authorizedParticipantName="CITADEL" authorizedParticipantCrdNo="N/A" authorizedParticipantPurchaseValue="0.00"/>
+          <authorizedParticipant authorizedParticipantLei="N/A" authorizedParticipantFileNo="008-00000-0" authorizedParticipantRedeemValue="0.00" authorizedParticipantName="JP MORGAN" authorizedParticipantCrdNo="N/A" authorizedParticipantPurchaseValue="0.00"/>
+        </authorizedParticipants>
+        <isCollateralRequired>N</isCollateralRequired>
+        <creationUnitNumOfShares>50000.00</creationUnitNumOfShares>
+        <averagePercentagePurchased>0.00</averagePercentagePurchased>
+        <standardDeviationPurchased>0.00</standardDeviationPurchased>
+        <creationUnitPurchasedInKind>100.00</creationUnitPurchasedInKind>
+        <creationUnitPurchasedSDInKind>3.00</creationUnitPurchasedSDInKind>
+        <averagePercentageRedeemed>0.00</averagePercentageRedeemed>
+        <percentSDRedeemed>0.00</percentSDRedeemed>
+        <creationUnitPercentageRedeemedInKind>0.00</creationUnitPercentageRedeemedInKind>
+        <creationUnitSDRedeemedInKind>0.00</creationUnitSDRedeemedInKind>
+        <creationUnitTransactionFeePerUnit>500.00</creationUnitTransactionFeePerUnit>
+        <creationUnitTransactionFeeManyUnits>0.00</creationUnitTransactionFeeManyUnits>
+        <creationUnitTransactionFeePercentagePerUnit>0.00</creationUnitTransactionFeePercentagePerUnit>
+        <creationUnitTransactionFeeCashPerUnit>500.00</creationUnitTransactionFeeCashPerUnit>
+        <creationUnitTransactionFeeCashManyUnits>0.00</creationUnitTransactionFeeCashManyUnits>
+        <creationUnitTransactionFeeCashPercentagePerUnit>0.00</creationUnitTransactionFeeCashPercentagePerUnit>
+        <purchaseCreationUnitDollarPerUnit>500.00</purchaseCreationUnitDollarPerUnit>
+        <purchaseCreationUnitDollarPerMoreUnits>0.00</purchaseCreationUnitDollarPerMoreUnits>
+        <purchaseCreationUnitDollarPercentagePerUnit>0.00</purchaseCreationUnitDollarPercentagePerUnit>
+        <purchaseCreationUnitCashPerUnit>500.00</purchaseCreationUnitCashPerUnit>
+        <purchaseCreationUnitCashPerMoreUnits>0.00</purchaseCreationUnitCashPerMoreUnits>
+        <purchaseCreationUnitCashPercentagePerUnit>0.00</purchaseCreationUnitCashPercentagePerUnit>
+        <isInKindETF>N</isInKindETF>
+      </exchangeTradedFund>
+    </exchangeSeriesInfo>
+    <attachmentsTab>
+      <isLegalProceedings>false</isLegalProceedings>
+      <isProvisionFinancialSupport>false</isProvisionFinancialSupport>
+      <isIPAReportInternalControl>true</isIPAReportInternalControl>
+      <isChangeAccPrinciples>false</isChangeAccPrinciples>
+      <isInfoRequiredEO>false</isInfoRequiredEO>
+      <isOtherInfoRequired>false</isOtherInfoRequired>
+    </attachmentsTab>
+    <signature registrantSignedName="Spinnaker ETF Series" signature="ASHLEY E. HARRIS" title="TREASURER" signedDate="2018-09-13"/>
+  </formData>
+</edgarSubmission>
